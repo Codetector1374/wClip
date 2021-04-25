@@ -1,0 +1,6 @@
+.vs
+/Debug
+/x64
+wClip/Debug
+wClip/x64
+*.vcxproj.user
